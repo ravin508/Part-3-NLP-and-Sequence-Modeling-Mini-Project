@@ -1,0 +1,62 @@
+=== SAMPLE PREDICTIONS - CUSTOMER SUPPORT TICKETS ===
+
+Ticket ID: TKT00001
+Original Message: I need information about the payment process. My ticket number is 78732. Please respond as soon as possible.
+Actual Sentiment : neutral
+Predicted Sentiment: neutral
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00002
+Original Message: I need information about the payment process.
+Actual Sentiment : neutral
+Predicted Sentiment: neutral
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00003
+Original Message: The refund process was fast and convenient. I appreciate the quick response.
+Actual Sentiment : positive
+Predicted Sentiment: positive
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00004
+Original Message: My refund is still pending and this experience is frustrating. My ticket number is 33927.
+Actual Sentiment : negative
+Predicted Sentiment: negative
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00005
+Original Message: Please tell me how to update my account details.
+Actual Sentiment : neutral
+Predicted Sentiment: neutral
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00006
+Original Message: I need help finding the invoice for my last order. Please respond as soon as possible.
+Actual Sentiment : neutral
+Predicted Sentiment: neutral
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00007
+Original Message: I am satisfied with the plan and would recommend it to others. My ticket number is 99198.
+Actual Sentiment : positive
+Predicted Sentiment: positive
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00008
+Original Message: I want to understand the warranty terms for this product.
+Actual Sentiment : neutral
+Predicted Sentiment: neutral
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00009
+Original Message: I need help finding the invoice for my last order.
+Actual Sentiment : neutral
+Predicted Sentiment: neutral
+------------------------------------------------------------------------------------------
+
+Ticket ID: TKT00010
+Original Message: My refund is still pending and this experience is frustrating.
+Actual Sentiment : negative
+Predicted Sentiment: negative
+------------------------------------------------------------------------------------------
+
