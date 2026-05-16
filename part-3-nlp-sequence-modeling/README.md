@@ -43,3 +43,5 @@ Built a complete NLP pipeline for customer support ticket sentiment classificati
 1. Open notebook in Google Colab
 2. Upload dataset
 3. Run all cells
+
+4. Dataset Link:  https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs
